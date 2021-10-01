@@ -1,0 +1,22 @@
+#title {
+  background-color: #0000ff;
+  text-align: center;
+  padding-bottom: 50%;
+}
+
+#price {
+  /* background-color: grey; */
+  padding: 0 30% 5% 30%;
+
+  /* background-color: blanchedalmond; */
+}
+/* .row {
+  /* align-items: center;
+  border: 2px solid yellow;
+  border-style: double;
+  border-width: 1rem; */
+
+.card-item {
+  margin: 5% 0;
+  text-align: center;
+}
